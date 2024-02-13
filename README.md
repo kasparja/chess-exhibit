@@ -10,3 +10,7 @@ In the ChessGame Class, I have written the code to move pieces and run logic for
 
 ### ChessGUI
 In the ChessGUI Class, I have written the code for a user-friendly interface to pop up, so that anyone running this code is not remembering the board state through words, but may look at it.
+
+## Game
+For those interested in a brief glimpse without running the code, below is a screenshot of the game interface.
+![Snapshot of the game board GUI](Chess_Snapshot.png)
